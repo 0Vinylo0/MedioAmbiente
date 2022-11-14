@@ -8,7 +8,7 @@
 
 - [¿Qué es la protección en el medio ambiente?](Preguntas/Proteccion.md)
 
-- [¿Cuáles son los riesgos ambientales?]()
+- [¿Cuáles son los riesgos ambientales?](Preguntas/Riesgos.md)
 
 - [¿Cuáles son los objetivos de la protección del medio ambiente?]()
 
