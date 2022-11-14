@@ -10,7 +10,7 @@
 
 - [¿Cuáles son los riesgos ambientales?](Preguntas/Riesgos.md)
 
-- [¿Cuáles son los objetivos de la protección del medio ambiente?](Preguntas/Objetivos)
+- [¿Cuáles son los objetivos de la protección del medio ambiente?](Preguntas/Objetivos.md)
 
 - [¿Cómo podemos garantizar la protección del medio ambiente?]()
 
