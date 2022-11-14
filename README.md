@@ -2,6 +2,8 @@
 
 ## Introduccion
 
+- El medio anbiente es el conjunto de componetes fisicos, quimicos y biologicos que hace que nuesto mundo fucione, este trabajo contestara algunas preguntas de la proteccion del medio anbiente y cuales son los riesgos que esta tiene.
+
 ## Contenidos
 
 - [¿Qué es la protección en el medio ambiente?]()
