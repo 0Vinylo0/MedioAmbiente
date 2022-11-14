@@ -13,3 +13,5 @@ generales; son los siguientes:
 - Eliminación segura de los residuos no valorizados.
 - Ordenación insular de la gestión de residuos.
 - Modernización del manejo y control de la información sobre residuos.
+
+![image text](https://www.caloryfrio.com/images/articulos/construccion-sostenible/objetivos-desarrollo-sostenible-ods.webp)
